@@ -1,1 +1,2 @@
 Informacje na temat projektu
+Tu będą informacje na temat tworzenia generatora
