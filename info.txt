@@ -1,0 +1,3 @@
+Informacje na temat projektu
+Tu będą informacje na temat tworzenia generatora
+Lokalna aktualizacja kodu programu
